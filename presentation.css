@@ -1,0 +1,58 @@
+body {
+    background-color: #CAFFFA;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid blue;
+
+}
+
+#str {
+    font-size: 20px;
+    font-weight: bold;
+    background-color:white;
+
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.pi {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+
+}
+
+strong {
+    color:  blue;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif,Arial, Helvetica, sans-serif;
+    color:brown;
+}
+
+b {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#pier {
+    color: white;
+    background-color:darkslategrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
